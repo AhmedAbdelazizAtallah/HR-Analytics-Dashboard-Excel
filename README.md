@@ -110,9 +110,8 @@ Then GitHub will automatically display it:
 ```
 HR-Analytics-Dashboard-Excel/
 │
-├── HR Dashboard.xlsx
-├── Dashboard.png
-├── Dataset.xlsx
+├── HR Analytics.xlsx
+├── Excel HR Analytics Dashboard.png
 ├── README.md
 └── LICENSE
 ```
